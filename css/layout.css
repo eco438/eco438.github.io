@@ -418,7 +418,7 @@ ul#nav li.current a { color: #F06000; }
    color: #EBEEEE;
 	display: inline-block;
 	float: left;
-   width: 26%;
+   width: 20%;
 }
 #contact input,
 #contact textarea,
@@ -449,7 +449,7 @@ ul#nav li.current a { color: #F06000; }
    height: auto;
    display: inline-block;
 	border-radius: 3px;
-   margin-left: 26%;
+   margin-left: 20%;
 }
 #contact button.submit:hover {
 	color: #0D0D0D;
@@ -465,7 +465,7 @@ ul#nav li.current a { color: #F06000; }
 	padding: 24px 24px;
 	margin-bottom: 36px;
    width: 65%;
-   margin-left: 26%;
+   margin-left: 20%;
 }
 #message-warning { color: #D72828; }
 #message-success { color: #11ABB0; }
