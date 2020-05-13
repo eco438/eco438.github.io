@@ -22,7 +22,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background:  white; }
+body { background: #F5F5F5; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -188,7 +188,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background:white;
+   background:#F5F5F5;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -199,7 +199,7 @@ ul#nav li.current a { color: #F06000; }
 
 #about h2 {
    font: 30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color:black;
 }
 #about p {
    line-height: 30px;
@@ -208,6 +208,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
+     border-radius: 25px;
    
 }
 #about .contact-details { width: 41.66667%; }
@@ -235,7 +236,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: #F5F5F5;
    padding-bottom: 72px;
    overflow: hidden;
 }
