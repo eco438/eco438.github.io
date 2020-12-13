@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background:#4267B2 url(/images/Background2.jpg) no-repeat top center;
+   background: #F5F5F5; no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -166,7 +166,7 @@ ul#nav li a {
 /* 8px padding top + 8px padding bottom + 32px line-height = 48px */
 
    display: inline-block;
-   padding: 8px 13px;
+   padding: 8px 15px;
    line-height: 40px;
 	text-decoration: none;
    text-align: right;

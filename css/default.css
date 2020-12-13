@@ -360,7 +360,7 @@ li p { }
    color: #8B9798;
 }
 .typewrite {
-   color:white;
+   color: black;
 }
 #hello {
 	transform: translateY(-100%);
